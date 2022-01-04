@@ -9,7 +9,7 @@ AIFFEL Exploration Node 1. 인공지능과 가위바위보 하기
 - ### BatchNormalization & DropOut
 - ### Conv - DropOut - BatchNorm - Activation 순서로 구성
   - https://stackoverflow.com/questions/39691902/ordering-of-batch-normalization-and-dropout
-- ### ~Regularization~
+- ### Regularization
   - 실험 결과 validation loss가 오히려 더 높게 나와서 제외함
 - ### Early Stopping
 - ### 동일 퍼포먼스에서 사이즈가 작은 모델 선택
