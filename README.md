@@ -25,3 +25,6 @@ AIFFEL Exploration Node 1. 인공지능과 가위바위보 하기
 - ### 3회 시도
   - test_loss: 0.3519209921360016 <br/>
   - test_accuracy: 0.9005376100540161 <br/>
+- ### 4회 시도
+  - test_loss: 0.14387616515159607 <br/>
+  - test_accuracy: 0.9677419066429138 <br/>
