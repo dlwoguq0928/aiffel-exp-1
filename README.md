@@ -14,6 +14,7 @@ AIFFEL Exploration Node 1. 인공지능과 가위바위보 하기
 - ### Early Stopping
 - ### 동일 퍼포먼스에서 사이즈가 작은 모델 선택
   - 8 16 32 64 vs ~16 32 64 128~
+- ### 1000 Epoch Visualization 이후 OverFitting 발생 지점 확인 
 
 ## 결과
 - ### 1회 시도
