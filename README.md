@@ -15,11 +15,12 @@ AIFFEL Exploration Node 1. 인공지능과 가위바위보 하기
 - ### 동일 퍼포먼스에서 사이즈가 작은 모델 선택
   - 8 16 32 64 vs ~16 32 64 128~
 - ### 1000 Epoch Visualization 이후 OverFitting 발생 지점 확인 
+  - ![image](https://user-images.githubusercontent.com/31565895/148012497-69301db7-a458-4b00-9ccd-7495645d80a7.png)
 
 ## 결과
 - ### 1회 시도
   - test_loss: ??? <br/>
-  - test_accuracy: 0.33??? <br/>
+  - test_accuracy: ??? <br/>
 - ### 2회 시도
   - test_loss: 0.5974062085151672 <br/>
   - test_accuracy: 0.8763440847396851 <br/>
