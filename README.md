@@ -16,6 +16,6 @@ AIFFEL Exploration Node 1. 인공지능과 가위바위보 하기
   - 8 16 32 64 vs 16 32 64 128
 
 ## 결과
-12/12 - 0s - loss: 0.1742 - categorical_accuracy: 0.3333
-test_loss: 0.1742161512374878 
-test_accuracy: 0.3333333432674408
+12/12 - 0s - loss: 0.1742 - categorical_accuracy: 0.3333<br/>
+test_loss: 0.1742161512374878<br/>
+test_accuracy: 0.3333333432674408<br/>
