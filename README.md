@@ -7,7 +7,7 @@ AIFFEL Exploration Node 1. 인공지능과 가위바위보 하기
     - https://www.tensorflow.org/datasets/catalog/rock_paper_scissors
 - ### Train / Validation 데이터 70:30으로 배분
 - ### BatchNormalization & DropOut
-- ### Conv - DropOut - BatchNorm - Activation으로 구성
+- ### Conv - DropOut - BatchNorm - Activation 순서로 구성
   - https://stackoverflow.com/questions/39691902/ordering-of-batch-normalization-and-dropout
 - ### ~Regularization~
   - 실험 결과 validation loss가 오히려 더 높게 나옴
