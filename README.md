@@ -15,6 +15,7 @@ AIFFEL Exploration Node 1. 인공지능과 가위바위보 하기
   - 8 16 32 64 vs ~16 32 64 128~
 - ### 1000 Epoch Visualization 이후 OverFitting 발생 지점 확인 
   - ![image](https://user-images.githubusercontent.com/31565895/148012497-69301db7-a458-4b00-9ccd-7495645d80a7.png)
+  - ![image](https://user-images.githubusercontent.com/31565895/148309073-96fa4ed9-e351-4069-a043-f13c76f178b8.png)
 
 ## 결과
 - ### 1회 시도
